@@ -134,6 +134,7 @@ class Projects(enum.Enum):
         'DynamicRoutingSurgicalDevelopment',
         'DynamicRoutingDynamicGating',
         'DynamicRoutingTask1Production',
+        'DynamicRoutingBehaviorDev'
     )
     """Dynamic Gating subset of DR."""
     DRPILOT = ('DRPilot',)
